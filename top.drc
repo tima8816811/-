@@ -1,0 +1,8 @@
+Release 13.4 Drc O.87xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Mon Jan 02 23:45:35 2023
+
+drc -z top.ncd top.pcf
+
+DRC detected 0 errors and 0 warnings.
